@@ -1,3 +1,5 @@
 Physics 	
 maths
 Chemistry
+Computer Science
+
